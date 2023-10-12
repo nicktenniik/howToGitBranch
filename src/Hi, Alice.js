@@ -1,2 +1,2 @@
-const name = 'Alice'
+const name = "Alice"
 console.log('Привет' + ',' + name + '!')
